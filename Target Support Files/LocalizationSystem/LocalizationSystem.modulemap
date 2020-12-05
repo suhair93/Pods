@@ -1,0 +1,6 @@
+framework module LocalizationSystem {
+  umbrella header "LocalizationSystem-umbrella.h"
+
+  export *
+  module * { export * }
+}
